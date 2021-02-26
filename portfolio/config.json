@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "Works",
-      "link": "/",
+      "link": "#works-anchor",
       "position": "left",
       "external": false
     },
