@@ -22,6 +22,12 @@
       "link": "mailto:contact@cimapminecraft.com",
       "position": "right",
       "external": true
+    },
+    {
+      "text": "Linkedin",
+      "link": "https://www.linkedin.com/in/davide-chiecca-3ba716191/",
+      "position": "right",
+      "external": true
     }
   ]
 }
