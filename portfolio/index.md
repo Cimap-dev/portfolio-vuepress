@@ -7,7 +7,7 @@ title: Hero
 ---
 <Hero :text="$page.frontmatter.hero_text" />
 
-![Cimap logo](/upload/cimap-logo-small-fl.png)
+![](/upload/logo-wide-alpha-3x.png)
 
 ## David Chiecca
 
