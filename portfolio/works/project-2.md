@@ -1,9 +1,9 @@
 ---
-title: Project two
+title: Create Fire
 date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/firebender-minecraft-marketplace.webp"
 year: 2020
-description: subtitle
+description: New attack abilities!
 categories:
 - Adventure Map
 
