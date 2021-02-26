@@ -20,4 +20,6 @@ _A mad scientist accidentally shrinks you to the size of an ant._
 
 You are no longer the privileged player who has to shape the Minecraft world, but you will be transformed into a small part of it.
 
+[See it in the Marketplace ↗️](https://mcmarket.place/?id=d833b3f9-0662-4132-9454-d0610d41ddb1)
+
 ![tiny minecraft player](/upload/minecraft-tiny-player.webp "I'm so tiny!")
