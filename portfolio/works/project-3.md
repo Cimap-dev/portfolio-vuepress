@@ -1,15 +1,20 @@
 ---
-title: Project three
-date: 2017-02-04 00:00:00 +0000
-thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
-year: 2017
+title: Outdoor Furniture
+date: 2017-02-04T00:00:00.000+00:00
+thumbnail: "/upload/outdoorfurniture-minecraft-marketplace.webp"
+year: 2021
 categories:
-- print
-description: subtitle
+- Builds
+description: "Your backyard could use better furniture! \U0001F914"
 
 ---
-# Project three
+# Outdoor Furniture
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Craft your desired piece of furniture and place it with a right-click!
 
-![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+This were the main tasks:
+
+* 3D Models using Blockbench
+* Models Animation for some pieces
+* Entity Implementation in Minecraft
+* Spawn enriched with Modern Houses
