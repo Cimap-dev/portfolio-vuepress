@@ -23,17 +23,23 @@ I'm a Minecraft Bedrock map developer, now working in the Minecraft Marketplace 
 
 ## Skills
 
-* Behavior Pack
-* Command Mechanic
-* Level Design
-* 3D Models
+➕ Behavior Pack
+
+➕ Command Mechanic
+
+➕ Level Design
+
+➕ 3D Models
 
 ## Software
 
-* VSCode
-* Adobe Photoshop
-* Blockbench
-* Amulet/MCCTool Chest
+➕ VSCode
+
+➕ Adobe Photoshop
+
+➕ Blockbench
+
+➕ Amulet/MCCTool Chest
 
 ## Other Interests
 
