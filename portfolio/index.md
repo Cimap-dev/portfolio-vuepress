@@ -5,7 +5,7 @@ hero_text: "<strong>I'm David</strong>, I design Minecraft experiences. But most
 title: Hero
 
 ---
-<Hero :text="$page.frontmatter.hero_text" 
+<Hero :text="$page.frontmatter.hero_text">
 
 ![](/upload/img-100-round.jpg)
 
