@@ -7,7 +7,7 @@ title: Hero
 ---
 <Hero :text="$page.frontmatter.hero_text" />
 
-![](/upload/logo-wide-alpha-3x.png)
+![](/upload/img-100.webp)
 
 ## David Chiecca
 
